@@ -1,0 +1,40 @@
+.first{
+	background: yellow;
+}
+h2 {
+	text-align: center;
+	font-weight: bold;
+}
+.imagen-caja{
+	/*background: #5995DD;*/
+	background-size: contain;
+	background-repeat: no-repeat;
+	width:350px;
+	height:300px;
+	margin: 5%;
+}
+.top {
+	margin-top: 5%;
+}
+.p1 {
+	padding: 3%;
+}
+.pt{
+	margin-top: 12px;
+}
+.parrafo{
+	font-weight: bold;
+	padding: 4%;
+}
+.contenedor{
+	background: #58FAD0;
+	padding:12px;
+}
+.
+option::selection{
+	background-color:green;
+}
+.bt{
+	display:block;
+	margin-top:12px;
+}
